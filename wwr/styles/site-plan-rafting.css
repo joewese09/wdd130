@@ -6,8 +6,8 @@
     --accent1-color: #02C39A;
     --accent2-color: #12130F;
   
-    --heading-font: 'Light 300', serif;
-    --paragraph-font: 'Light 300', serif;
+    --heading-font: 'font-family: 'Roboto', sans-serif;', serif;
+    --paragraph-font: 'font-family: 'Roboto', sans-serif;', serif;
   
     --nav-background-color: #2978A0;
     --nav-link-color: #02C39A;
@@ -21,7 +21,7 @@
   }
 
   h1, h2, h3, h4, h5, h6 {
-    font-family: var(Light 300);
+    font-family: var('Roboto', sans-serif);
     color: var(#EAE6E5);
   }
 
